@@ -1,0 +1,8 @@
+Enter number of vertices: 5
+Enter the adjacency matrix:
+1 0 0 0 1
+0 1 1 1 0
+1 0 1 0 1
+0 1 0 1 0
+1 1 1 0 0
+Graph is Not Eulerian!
