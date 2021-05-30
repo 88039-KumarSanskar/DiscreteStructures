@@ -1,0 +1,19 @@
+Enter the no. of vertices of the Graph : 3
+Enter 1 if there is edge between given vertices else enter 0.
+(head , tail)
+( 0,1 ) : 0
+( 0,2 ) : 0
+( 1,0 ) : 1
+( 1,2 ) : 1
+( 2,0 ) : 0
+( 2,1 ) : 1
+
+Entered Graph looks like :
+In-Degree of 0 = 1
+Out-Degree of 0 = 0
+
+In-Degree of 1 = 1
+Out-Degree of 1 = 2
+
+In-Degree of 2 = 1
+Out-Degree of 2 = 1
