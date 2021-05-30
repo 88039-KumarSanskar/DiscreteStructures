@@ -1,0 +1,15 @@
+Enter the no. of vertices of the Graph : 3
+Enter 1 if there is edge between given vertices else enter 0.
+( 0,1 ) : 1
+( 0,2 ) : 0
+( 1,0 ) : 1
+( 1,2 ) : 0
+( 2,0 ) : 1
+( 2,1 ) : 0
+
+Entered Graph looks like :
+0 1 1
+1 0 0
+1 0 0
+
+Entered graph is a complete Graph
